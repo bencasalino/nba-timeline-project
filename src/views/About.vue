@@ -7,11 +7,11 @@
           ATL
         </div>
         <div class="player-wrapper">
-          <div class="player">T. YOUNG</div>
-          <div class="player alt">K. BAZEMORE</div>
+          <div class="player">D. SCHRODER</div>
+          <div class="player ">K. BAZEMORE</div>
           <div class="player">T. PRINCE</div>
-          <div class="player alt">O. SPELLMAN</div>
-          <div class="player">A. LEN</div>
+          <div class="player ">J. COLLINS</div>
+          <div class="player">D. DEADMON</div>
         </div>
       </div>
 
@@ -21,9 +21,9 @@
         </div>
         <div class="player-wrapper">
           <div class="player">D. AUGUSTIN</div>
-          <div class="player alt">E. FORUNIER</div>
+          <div class="player ">J. SIMMONS</div>
           <div class="player">J. ISSAC</div>
-          <div class="player alt">A. GORDON</div>
+          <div class="player ">A. GORDON</div>
           <div class="player">N. VUCEVIC</div>
         </div>
       </div>
@@ -33,11 +33,11 @@
           MIA
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">G. DRAGIC</div>
+          <div class="player ">T. JOHNSON</div>
+          <div class="player">J. RICHARDSON</div>
+          <div class="player ">J. JOHNSON</div>
+          <div class="player">H. WHITESIDE</div>
         </div>
       </div>
 
@@ -46,11 +46,11 @@
           CHA
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">K. WALKER</div>
+          <div class="player ">M. WILLIAMS</div>
+          <div class="player small">M. KIDD-GILCHRIST</div>
+          <div class="player ">N. BATUM</div>
+          <div class="player">D. HOWARD</div>
         </div>
       </div>
 
@@ -59,11 +59,11 @@
           WAS
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">J. WALL</div>
+          <div class="player ">B. BEAL</div>
+          <div class="player">O. PORTER</div>
+          <div class="player ">M. MORRIS</div>
+          <div class="player">M. GORTAT</div>
         </div>
       </div>
       <br>
@@ -74,11 +74,11 @@
           PHI
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">B. SIMMONS</div>
+          <div class="player ">J. REDDICK</div>
+          <div class="player">R. COVINGTON</div>
+          <div class="player ">D. SARIC</div>
+          <div class="player">J. EMBIID</div>
         </div>
       </div>
 
@@ -87,11 +87,11 @@
           TOR
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">K. LOWRY</div>
+          <div class="player ">D. DEROZAN</div>
+          <div class="player">A. ANUNOBY</div>
+          <div class="player ">S. IBAKA</div>
+          <div class="player small">J. VALANCIUNAS</div>
         </div>
       </div>
 
@@ -100,11 +100,11 @@
           BOS
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">K. IRVING</div>
+          <div class="player ">J. BROWN</div>
+          <div class="player">J. TATUM</div>
+          <div class="player ">A. HORFORD</div>
+          <div class="player">A. BAYNES</div>
         </div>
       </div>
 
@@ -113,11 +113,11 @@
           NYK
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">T. BURKE</div>
+          <div class="player ">F. NTILIKINA</div>
+          <div class="player">T. HARDAWAY</div>
+          <div class="player ">M. BEASLEY</div>
+          <div class="player">E. KANTER</div>
         </div>
       </div>
 
@@ -126,11 +126,11 @@
           BKN
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">D. RUSSELL</div>
+          <div class="player ">A. CRABBE</div>
+          <div class="player">D. CAROLL</div>
+          <div class="player smaller">R. HOLLIS-JEFFERSON</div>
+          <div class="player">J. ALLEN</div>
         </div>
       </div>
       <br>
@@ -141,11 +141,11 @@
           MIL
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">E. BLEDSOE</div>
+          <div class="player ">M. BRODGON</div>
+          <div class="player">K. MIDDLETON</div>
+          <div class="player smaller">G. ANTETOKOUNMPO</div>
+          <div class="player">J. HENSON</div>
         </div>
       </div>
 
@@ -154,11 +154,11 @@
           DET
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">R. JACKSON</div>
+          <div class="player ">R. BULLOCK</div>
+          <div class="player">S. JOHNSON</div>
+          <div class="player ">B. GRIFFIN</div>
+          <div class="player">A. DRUMMOND</div>
         </div>
       </div>
 
@@ -167,11 +167,11 @@
           IND
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">D. COLLISON</div>
+          <div class="player ">V. OLADIPO</div>
+          <div class="player small">B. BOGDONAVIC</div>
+          <div class="player ">T. YOUNG</div>
+          <div class="player">M. TUNRNER</div>
         </div>
       </div>
 
@@ -180,11 +180,11 @@
           CLE
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">G. HILL</div>
+          <div class="player ">J. SMITH</div>
+          <div class="player">L. JAMES</div>
+          <div class="player ">K. LOVE</div>
+          <div class="player">T. THOMPSON</div>
         </div>
       </div>
 
@@ -193,11 +193,11 @@
           CHI
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">K. DUNN</div>
+          <div class="player ">Z. LAVINE</div>
+          <div class="player">J. HOLIDAY</div>
+          <div class="player ">L. MARRAKNEN</div>
+          <div class="player">R. LOPEZ</div>
         </div>
       </div>
     </div>
@@ -209,11 +209,11 @@
           POR
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">D. LILLARD</div>
+          <div class="player ">S. MCCOLUM</div>
+          <div class="player">E. TURNER</div>
+          <div class="player ">A. AMINU</div>
+          <div class="player">J. NURKIC</div>
         </div>
       </div>
 
@@ -222,11 +222,11 @@
           DEN
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">J. MURRAY</div>
+          <div class="player ">G. HARRIS</div>
+          <div class="player">W. CHANDLER</div>
+          <div class="player ">P. MILLSAP</div>
+          <div class="player">N. JOKIC</div>
         </div>
       </div>
 
@@ -235,11 +235,11 @@
           OKC
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">R. WESTBROOK</div>
+          <div class="player ">A. ROBERSON</div>
+          <div class="player">C. ANTHONY</div>
+          <div class="player ">P. GEORGE</div>
+          <div class="player">S. ADAMS</div>
         </div>
       </div>
 
@@ -248,11 +248,11 @@
           MIN
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">J. TEAGUE</div>
+          <div class="player ">J. BUTLER</div>
+          <div class="player">A. WIGGINS</div>
+          <div class="player ">T. GIBSON</div>
+          <div class="player smaller">K. ANTHONY-TOWNS</div>
         </div>
       </div>
 
@@ -261,11 +261,11 @@
           UTH
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">R. RUBIO</div>
+          <div class="player ">D. MITCHELL</div>
+          <div class="player">J. INGLES</div>
+          <div class="player ">D. FAVORS</div>
+          <div class="player">R. GOBERT</div>
         </div>
       </div>
       <br>
@@ -275,11 +275,11 @@
           LAC
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">A. RIVERS</div>
+          <div class="player ">P. BEVERLY</div>
+          <div class="player">W. JOHNSON</div>
+          <div class="player ">T. HARRIS</div>
+          <div class="player">D. JORDAN</div>
         </div>
       </div>
 
@@ -288,11 +288,11 @@
           GSW
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player ">S. CURRY</div>
+          <div class="player ">K. THOMPSON</div>
+          <div class="player ">K. DURANT</div>
+          <div class="player ">D. GREEN</div>
+          <div class="player ">J. MCGEE</div>
         </div>
       </div>
 
@@ -301,11 +301,11 @@
           SAC
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">D. FOX</div>
+          <div class="player small">B. BOGDONAVIC</div>
+          <div class="player">J. JACKSON</div>
+          <div class="player ">Z. RANDOLPH</div>
+          <div class="player small">W. CAULEY-STIEN</div>
         </div>
       </div>
 
@@ -314,11 +314,11 @@
           LAL
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player ">L. BALL</div>
+          <div class="player small">K. CALDWELL-POPE</div>
+          <div class="player ">B. INGRAM</div>
+          <div class="player ">K. KUZMA</div>
+          <div class="player ">B. LOPEZ</div>
         </div>
       </div>
 
@@ -327,11 +327,11 @@
           PHX
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">E. PAYTON</div>
+          <div class="player ">D. BOOKER</div>
+          <div class="player">T. WARREN</div>
+          <div class="player ">M. CHRISS</div>
+          <div class="player">D. BENDER</div>
         </div>
       </div>
       <br>
@@ -341,11 +341,11 @@
           MEP
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">M. CONLEY</div>
+          <div class="player ">T. EVANS</div>
+          <div class="player">D. BROOKS</div>
+          <div class="player ">J. GREEN</div>
+          <div class="player">M. GASOL</div>
         </div>
       </div>
 
@@ -354,11 +354,11 @@
           DAL
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">D. SMITH</div>
+          <div class="player ">W. MATTHEWS</div>
+          <div class="player">H. BARNES</div>
+          <div class="player ">D. POWELL</div>
+          <div class="player">D. NOWITZKI</div>
         </div>
       </div>
 
@@ -367,11 +367,11 @@
           NOP
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">R. RONDO</div>
+          <div class="player ">J. HOLIDAY</div>
+          <div class="player">E. MOORE</div>
+          <div class="player ">N. MIROTIC</div>
+          <div class="player">A. DAVIS</div>
         </div>
       </div>
 
@@ -380,11 +380,11 @@
           HOU
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">C. PAUL</div>
+          <div class="player ">J. HARDEN</div>
+          <div class="player">T. ARIZA</div>
+          <div class="player ">P. TUCKER</div>
+          <div class="player">C. CAPELA</div>
         </div>
       </div>
 
@@ -393,11 +393,11 @@
           SAS
         </div>
         <div class="player-wrapper">
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
-          <div class="player alt">TEST</div>
-          <div class="player">TEST</div>
+          <div class="player">P. MILLS</div>
+          <div class="player ">D. MURRAY</div>
+          <div class="player">K. ANDERSON</div>
+          <div class="player ">L. ALDRIDGE</div>
+          <div class="player">P. GASOL</div>
         </div>
       </div>
     </div>
@@ -431,7 +431,9 @@
 }
 
 .team-wrapper {
-  padding-bottom: 15px;
+  // margin-bottom: 5px;
+  border-bottom: 2px solid #ffffff;
+  // border-top: 1px solid #666666;
 }
 
 .player {
@@ -440,7 +442,7 @@
   align-items: center;
 }
 
-.player.alt {
+.player {
   background-color: #dcdcdc;
 }
 
@@ -452,6 +454,12 @@
   text-align: center;
   // padding: 5px 2px 0 2px;
   // height: 20px;
+}
+.small {
+  font-size: 10px;
+}
+.smaller {
+  font-size: 9px;
 }
 
 // SOUTHEAST
