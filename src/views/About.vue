@@ -431,7 +431,7 @@
 }
 
 .team-wrapper {
-  // margin-bottom: 5px;
+  margin-bottom: 10px;
   border-bottom: 2px solid #ffffff;
   // border-top: 1px solid #666666;
 }
